@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js and Tailwind**
 
-- 📝 I regularly write articles on [daveperalta.com](daveperalta.com)
+- 📝 I regularly write articles on [https://daveperalta.com/](https://daveperalta.com/)
 
 - 💬 Ask me about **Python and Java**
 
