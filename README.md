@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java and React**
 
-- 📫 How to reach me **techdotdcp@gmail.com**
+- 📫 You may contact me through this email: **techdotdcp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
