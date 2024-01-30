@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dave Peralta</h1>
-<h3 align="center">An aspiring Web Developer and Cybersecurity enthusiast from the Philippines</h3>
+<h3 align="center">An aspiring Web Developer and gadget enthusiast from the Philippines</h3>
 
 - 🌱 I’m currently learning **Next.js and Tailwind**
 
-- 📝 I regularly write articles on [https://daveperalta.com/](https://daveperalta.com/)
+- 📝 I sometimes write articles on [https://daveperalta.com/](https://daveperalta.com/)
 
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **Java and React**
 
 - 📫 How to reach me **techdotdcp@gmail.com**
 
