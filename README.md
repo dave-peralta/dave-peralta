@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Next.js and Tailwind**
 
-- 📝 I sometimes write articles on [https://daveperalta.com/](https://daveperalta.com/)
-
 - 💬 Ask me about **Java and React**
 
 - 📫 You may contact me through this email: **techdotdcp@gmail.com**
